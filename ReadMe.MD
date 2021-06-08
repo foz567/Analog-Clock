@@ -1,6 +1,6 @@
 ANALOG CLOCK using JS, CSS and HTML
 
-A more advanced version of the simple clock this time instead of just using css I have also used CSS and Javascript
+A more advanced version of the simple clock this time instead of just using HTML I have also used CSS and Javascript
 
 HTML NOTES
 
